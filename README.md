@@ -34,5 +34,4 @@ Simple!
 
  - In the terminal of your IDE enter 'npx expo start' and scan the QR code (you will need the ExpoGo app to run ZombieRun).
  - You can create an account or you can use the login of:
-   email - user99@stuff.com 
-   password - 123456789!
+   email - user99@stuff.com, password - 123456789!
