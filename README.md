@@ -2,7 +2,7 @@
 
 ZombieRun is a REact Native app that incentives joggers by being pursued by a zombie.
 
-ZombieRun is a gamified running app. The user can create an account where previous run history is stored and can select either a normal run or a zombie chase. The zombie chase has 3 difficulties (easy, normal and hard)
+ZombieRun is a gamified running app. The user can create an account where previous run history is stored and can select either a normal run or a zombie chase. The zombie chase has 3 difficulties (easy, normal and hard) and its pace is customisable in km/hr as well as the distance to run. 
 
 ## Backend
 
